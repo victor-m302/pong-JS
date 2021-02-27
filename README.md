@@ -8,6 +8,6 @@ Simple Pong Game for Game's Course
 - [x] Score
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./Assets/ui.png" />
+  <img alt="NextLevelWeek" title="" src="./Assets/ui.PNG" />
 </h1>
 
