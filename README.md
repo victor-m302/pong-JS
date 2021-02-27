@@ -3,6 +3,11 @@ Simple Pong Game for Game's Course
 
 ### Features
 
-- [ x ] 2 Paddles / Raquetes
+- [x] 2 Paddles / Raquetes
 - [x] 4 Walls / Paredes 
 - [x] Score
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./Assets/ui.png" />
+</h1>
+
